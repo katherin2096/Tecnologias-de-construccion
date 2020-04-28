@@ -1,0 +1,15 @@
+	LOGIN
+https://astorga.uc.r.appspot.com/login
+	METODO GET
+https://astorga.uc.r.appspot.com/paises// necesita parametro token
+	METODOS POST
+https://astorga.uc.r.appspot.com/agregarPais// necesita parametro pais,token
+https://astorga.uc.r.appspot.com/agregarRegion// necesita parametro pais,region,token
+https://astorga.uc.r.appspot.com/agregarDistrito// necesita parametro pais,region,distrito,token
+	METODO PUT
+https://astorga.uc.r.appspot.com/modificarPais // necesita parametro pais y nuevo,token
+	METODO DELETE
+https://astorga.uc.r.appspot.com/eliminarPais// necesita parametro pais,token
+
+
+
